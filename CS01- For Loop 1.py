@@ -1,8 +1,8 @@
 #1
 n = int(input("number: "))
 for count in range(1,n):
-    count += n
-    print(count)
+    n += count
+    print(n)
 print("_______________________________")
 
 #2
