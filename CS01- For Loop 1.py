@@ -18,8 +18,10 @@ for number in range(1,n+1):
     if number % 2 != 0:
         count += 1
         print(number)
+print("_______________________________")
 
 #4
 n = int(input("num: "))
 for count in range(n+1):
     print(count*"*")
+print("_______________________________")
